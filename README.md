@@ -16,6 +16,6 @@ Required Python libraries: requests, argparse (typically these come with Python,
 Installation
 1. Clone the Respository
    
-        git clone https://github.com/BLACKHATSGODBOLTE/BLACKSQLi
-        cd BLACKSQLi
+        git clone https://github.com/ProwlSec/ProwlSQLi
+        cd ProwlSQLi
         python3 Bsqli.py
